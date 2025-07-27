@@ -2,6 +2,11 @@
 
 This project implements a secure wireless communication system using 433 MHz RF modules and the ATMEGA16A microcontroller. It encodes alphanumeric characters into sequences of "+" and "-" signals, encrypts them, and transmits the data over RF. The receiver decodes and decrypts the data, ensuring secure and private communication.
 
+## Demo Video
+
+[Watch the demo video on Streamable](https://streamable.com/w8ig47)
+
+
 ## Features
 
 - RF-based wireless data transmission
