@@ -4,7 +4,8 @@ This project implements a secure wireless communication system using 433 MHz RF 
 
 ## Demo Video
 
-[Watch the demo video on Streamable](https://streamable.com/w8ig47)
+[Watch the demo on YouTube](https://youtu.be/D_3pDAyVSLE)
+
 
 
 ## Features
