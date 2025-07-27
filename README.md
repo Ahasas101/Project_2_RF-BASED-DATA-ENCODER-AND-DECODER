@@ -45,6 +45,17 @@ The transmitter sends encrypted data via a 433 MHz RF module. The receiver captu
 4. Power both the transmitter and receiver circuits.
 5. Enter alphanumeric data at the transmitter side. The receiver will display the decoded data on the LCD.
 
+
+## For Simulation testing
+
+1. Download the proteus file
+2. Open with protues
+3. Start the simulation
+4. Top button is "-" and bottom one is "+"
+5. By reffering to the encoding file, you can enter the data
+6. The microcontroller will decode and display on the LCD
+   
+
 ## Hardware Requirements
 
 - ATMEGA16A microcontroller
