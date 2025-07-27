@@ -16,13 +16,15 @@ This project implements a secure wireless communication system using 433 MHz RF 
 - Decoding and display of received data
 - Developed using Embedded C, Proteus, and KiCad
 
-## Technologies Used
+## Components Used
 
 - ATMEGA16A Microcontroller
 - 433 MHz RF Transmitter and Receiver
 - Embedded C (AVR-GCC)
 - Proteus for simulation
 - KiCad for circuit design
+- HT12E (Encoder IC)
+- HT12D (Decoder IC)
 
 ## Project Overview
 
